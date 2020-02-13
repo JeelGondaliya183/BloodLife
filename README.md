@@ -12,36 +12,6 @@ The following webpages have been implemented for this assignment:
 6. View Reports
 7. Event Management
 
-The Hyperlink takes you directly to the bluenose/hector server where you can preview them.
-
-## GitLab Repository
-
-The code for these webpages can be access through [GitLab](https://git.cs.dal.ca/mahagaokar/Group14_TechGoons/tree/master).
-
-## Images
-
- **Landing page:**
-
-
-1. Unsplash, â€œThis local sheriff took about 30 minu... | HD photo by LuAnn Hunt (@luannhunt180) on Unsplash,â€ Beautiful Free Images & Pictures. [Online]. Available: https://unsplash.com/photos/X20g2GQsVdA. [Accessed: 31-May-2019].
-1. Unsplash, â€œWorking on web components | HD photo by Yucel Moran (@yucelmoran) on Unsplash,â€ Beautiful Free Images & Pictures. [Online]. Available: https://unsplash.com/photos/Ky9JHrdvb1o. [Ac-cessed: 31-May-2019].
-1. Unsplash, â€œHuman, person, injection and arm | HD photo by Chang Duong (@chang612) on Unsplash,â€ Beautiful Free Images & Pictures. [Online]. Available: https://unsplash.com/photos/z4n1tcahzrk. [Ac-cessed: 31-May-2019].
-1. Unsplash, â€œPainted red | HD photo by Tim Marshall (@timmarshall) on Unsplash,â€ Beautiful Free Images & Pictures. [Online]. Available: https://unsplash.com/photos/cAtzHUz7Z8g. [Accessed: 31-May-2019].
-
-**Update profile:**
-1. â€œFree Image on Pixabay - Head, The Dummy, Avatar, Man, Tie,â€ Head The Dummy Avatar - Free image on Pixabay. [Online]. Available: https://pixabay.com/illustrations/head-the-dummy-avatar-man-tie-659651/. [Accessed: 31-May-2019]. 
-
-**Login:**
-1. Vecteezy. (2019). Blood Drive. [online] Available at: https://www.vecteezy.com/vector-art/224235-blood-drive [Ac-cessed 18 Jun. 2019].
-1. Bootstrap, S. (2019). Bootstrap 4 Modern Sign In Page. [online] Start Bootstrap. Available at: https://startbootstrap.com/snippets/sign-in-split/ [Accessed 18 Jun. 2019].
-
-**Dashboard:**
-
-1. Depositphotos, I. (2019). AB- blood type on red back-ground.. [online] Depositphotos. Available at: https://depositphotos.com/118038840/stock-photo-ab-blood-type-on-red.html [Accessed 18 Jun. 2019].
-1. Depositphotos, I. (2019). B+ blood type on red back-ground.. [online] Depositphotos. Available at: https://depositphotos.com/118038856/stock-photo-b-blood-type-on-red.html [Accessed 18 Jun. 2019].
-1. Depositphotos, I. (2019). A+ blood type on red back-ground.. [online] Depositphotos. Available at: https://depositphotos.com/118038772/stock-photo-a-blood-type-on-red.html [Accessed 18 Jun. 2019].
-1. Depositphotos, I. (2019). O+ blood type on red back-ground.. [online] Depositphotos. Available at: https://depositphotos.com/118038882/stock-photo-o-blood-type-on-red.html [Accessed 18 J
-
  
 ## Libraries/Toolkits Used
  1. **Bootstrap**
