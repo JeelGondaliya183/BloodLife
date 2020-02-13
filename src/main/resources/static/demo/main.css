@@ -1,0 +1,88 @@
+.head {
+  height: 100vh;
+  min-height: 500px;
+  /*  The below image has been taken from https://unsplash.com/(look for reference number [1] under Landing page in ReadMe file)*/
+  background-image: url('https://images.unsplash.com/photo-1536856136534-bb679c52a9aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5);
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.lead {
+  font-size: 10px;
+  color: #ffffff;
+}
+
+hr{
+  width: 200px;
+  background-color: #F44336;
+}
+.button {
+  background-color: #F44336;
+  border-color: white;
+  border-radius: 10px;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 26px;
+}
+
+.row {
+  margin: 60px;
+}
+
+.text {
+  color: black;
+  font-size: 20px;
+}
+
+/* this code creates card's shadow in normal mode the idea to implement this code have been taken from https://codepen.io/BastianAndre/pen/PzwEYe
+I modified the original code as I found an easier way to implement this feature by removing cubic-bezier and also separatting hover properties from
+the rest of the properties  */
+#card1 {
+  margin: 20px;
+  transition: box-shadow .3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#card1:hover {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+#card2 {
+  margin: 20px;
+  transition: box-shadow .3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#card2:hover {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+#card3 {
+  margin: 20px;
+  transition: box-shadow .3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#card3:hover {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+#small_heading {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #F44336;
+  text-align: center;
+}
